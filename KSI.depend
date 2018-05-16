@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1526409402 source:c:\users\marnie\desktop\ksi\main.c
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
